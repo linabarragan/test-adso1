@@ -5,3 +5,5 @@
 **tu puedes con todo**
 
 **eres fuerte y valiente**
+
+*cree en ti y saldras adelante*
