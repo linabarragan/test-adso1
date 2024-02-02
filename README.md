@@ -3,3 +3,5 @@
 **este es mi primer commit en ADSO**
 
 **tu puedes con todo**
+
+**eres fuerte y valiente**
